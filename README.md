@@ -5,4 +5,4 @@ A Mock API made with [JSON Server by Typicode](https://github.com/typicode/json-
 Data Generated from [Mockaroo Realistic Data Generator]("https://mockaroo.com/")
 ## Data Template Screenshot
 ![Data Template Image](https://github.com/cyogian/ftl-json-api/raw/main/MockarooMockTemplateScreenshot.PNG)
-https://github.com/cyogian/ftl-json-api/raw/main/MockarooMockTemplateScreenshot.PNG
+https://github.com/cyogian/json-server/raw/main/MockarooMockTemplateScreenshot.PNG
