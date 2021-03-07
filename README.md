@@ -23,3 +23,5 @@ Data Generated from [Mockaroo Realistic Data Generator](https://mockaroo.com/)
 - The Frontent Site that uses this mock API is deployed on netlify at [this link](https://ftl.cyogian.dev) and a private github repository.
 
 - **Started Mocking...**
+
+![](repl_screenshot.png)
