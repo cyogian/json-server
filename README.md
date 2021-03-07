@@ -20,7 +20,7 @@ Data Generated from [Mockaroo Realistic Data Generator](https://mockaroo.com/)
 
 - Deployed the server on repl at [this link](https://json-server.cyogian.repl.co).
 
-- The Frontent Site that uses this mock API is deployed on netlify at [this link](https://ftl.cyogian.dev) and a private github repository.
+- The Frontend Site that uses this mock API is deployed on netlify at [this link](https://ftl.cyogian.dev) and a private github repository.
 
 - **Started Mocking...**
 
