@@ -22,6 +22,8 @@ Data Generated from [Mockaroo Realistic Data Generator](https://mockaroo.com/)
 
 - The Frontend Site that uses this mock API is deployed on netlify at [this link](https://ftl.cyogian.dev) and a private github repository.
 
+- **Note :** Use this link to get JSON similar to Sample File : https://json-server.cyogian.repl.co/members?_embed=activity_periods
+
 - **Started Mocking...**
 
 ![](repl_screenshot.png)
