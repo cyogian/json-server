@@ -1,6 +1,6 @@
 import json
 
-with open("./db_big.json") as f:
+with open("./db_structured.json") as f:
     data = json.load(f)
 
 data["activity_periods"] = []
